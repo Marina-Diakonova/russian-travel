@@ -1,0 +1,30 @@
+
+.footer {
+  padding: 20% 0 7.5% 5%;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 100%;
+}
+
+@media screen and (min-width: 768px) {
+  .footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 11.45% 3.12% 3.12% 3.12%;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .footer {
+    padding: 8.7% 4.68% 2.34% 4.68%;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 7.18% 3.75% 1.87% 3.75%;
+  }
+}

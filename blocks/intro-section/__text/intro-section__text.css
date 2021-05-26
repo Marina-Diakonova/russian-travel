@@ -1,0 +1,16 @@
+.intro-section__text {
+  margin: 0;
+  padding: 12% 0 0;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 163%;
+}
+
+
+@media screen and (min-width: 1024px) {
+  .intro-section__text {
+    padding: 6% 0 0;
+  }
+}

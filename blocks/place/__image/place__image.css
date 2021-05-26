@@ -1,0 +1,26 @@
+.place__image {
+  width: 100%;
+  padding: 10% 0 0;
+}
+
+
+@media screen and (min-width: 768px) {
+  .place__image {
+    padding: 0;
+    min-width: 340px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .place__image {
+    min-width: 440px;
+    min-height: 440px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .place__image {
+    min-width: 460px;
+    min-height: 460px;
+  }
+}

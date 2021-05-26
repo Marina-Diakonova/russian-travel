@@ -1,0 +1,44 @@
+.place__text {
+  padding: 7.81% 5% 0;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 163%;
+}
+
+.place__text:nth-of-type(1) {
+  padding: 10% 5% 0;
+}
+
+
+@media screen and (min-width: 768px) {
+  .place__text {
+    padding: 3.25% 0 0;
+  }
+
+  .place__text:nth-of-type(1) {
+    padding: 0;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .place__text {
+    padding: 2.63% 0 0;
+    font-size: 18px;
+  }
+
+  .place__text:nth-of-type(1) {
+    padding: 0;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .place__text {
+    padding: 2.03% 0 0;
+    font-size: 18px;
+  }
+
+  .place__text:nth-of-type(1) {
+    padding: 0;
+  }
+}

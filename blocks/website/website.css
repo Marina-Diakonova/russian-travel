@@ -1,0 +1,42 @@
+.website {
+  padding: 10% 5.2% 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+@media screen and (min-width: 768px){
+    .website {
+      padding: 0;
+      align-self: end;
+    }
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.website {
+  margin: 0;
+  align-self: end;
+}
+*/

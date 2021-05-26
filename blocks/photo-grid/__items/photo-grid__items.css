@@ -1,0 +1,27 @@
+
+.photo-grid__items {
+  display: grid;
+  grid-gap: 3.75vmin;
+}
+
+
+@media screen and (min-width: 768px) {
+  .photo-grid__items {
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 2.08vmin;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .photo-grid__items {
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 1.36vmin;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .photo-grid__items {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 1.25vmin;
+  }
+}

@@ -1,0 +1,19 @@
+.intro-section__list {
+  margin: 0;
+  padding: 10.62% 0 0;
+  list-style-type: none;
+}
+
+
+@media screen and (min-width: 768px) {
+  .intro-section__list {
+    padding: 4.29% 0 0;
+  }
+}
+
+
+@media screen and (min-width: 1024px) {
+  .intro-section__list {
+    padding: 3.3% 0 0;
+  }
+}
