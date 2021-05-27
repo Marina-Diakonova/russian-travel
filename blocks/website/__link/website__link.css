@@ -8,3 +8,7 @@
   line-height: 122%;
   color: #FFFFFF;
 }
+
+.website__link:hover {
+  opacity: .8;
+}
