@@ -1,5 +1,7 @@
 @import url(./vendor/normalize.css);
+/*блок с шрифтами*/
 @import url(./vendor/fonts/fonts.css);
+/* основной блок PAGE*/
 @import url(./blocks/page/page.css);
 /* блок MAIN*/
 @import url(./blocks/mian/main.css);
@@ -49,6 +51,3 @@
 /* блок CURSOR*/
 @import url(./blocks/cursor/cursor.css);
 @import url(./blocks/cursor/__hand/cursor__hand-hover.css);
-
-
-

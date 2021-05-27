@@ -24,7 +24,7 @@
   opacity: 0.8;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 767px) {
   .cover {
     padding: 14.97% 13.54%;
   }

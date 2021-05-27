@@ -4,7 +4,7 @@
   margin: auto;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 767px) {
   .places {
     padding: 0 0 2.21%;
     width: 93.75%;

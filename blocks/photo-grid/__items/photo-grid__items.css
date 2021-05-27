@@ -5,7 +5,7 @@
 }
 
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 767px) {
   .photo-grid__items {
     grid-template-columns: 1fr 1fr;
     grid-gap: 2.08vmin;

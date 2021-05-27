@@ -9,6 +9,13 @@
 }
 
 
+@media screen and (min-width: 767px) {
+  .intro-section__text {
+    padding: 5.2% 0 0;
+  }
+}
+
+
 @media screen and (min-width: 1024px) {
   .intro-section__text {
     padding: 6% 0 0;

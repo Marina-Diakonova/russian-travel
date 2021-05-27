@@ -4,6 +4,12 @@
   box-sizing: border-box;
 }
 
+@media screen and (min-width: 767px) {
+  .lead {
+    padding: 6.25% 0 0;
+  }
+}
+
 @media screen and (min-width: 1024px) {
   .lead {
     padding: 4.68% 4.68% 0;
