@@ -7,8 +7,7 @@
 @import url(./blocks/mian/main.css);
 /* блок HEADER*/
 @import url(./blocks/header/header.css);
-@import url(./blocks/logo/logo.css);
-@import url(./blocks/logo/_place/logo_place_header.css);
+@import url(./blocks/header/__logo/header__logo.css);
 @import url(./blocks/header/__lang-link/header__lang-link.css);
 @import url(./blocks/header/__lang-links/header__lang-links.css);
 @import url(./blocks/header/__block/header__block.css);
@@ -23,7 +22,7 @@
 @import url(./blocks/intro-section/__title/intro-section__title.css);
 @import url(./blocks/intro-section/__text/intro-section__text.css);
 @import url(./blocks/intro-section/__list/intro-section__list.css);
-@import url(./blocks/intro-section/__list/_text/intro-section__list_text.css);
+@import url(./blocks/intro-section/__paragraph/intro-section__paragraph.css);
 @import url(./blocks/intro-section/__span-accent/intro-section__span-accent.css);
 /* блок PHOTO-GRID*/
 @import url(./blocks/photo-grid/photo-grid.css);
@@ -50,4 +49,3 @@
 @import url(./blocks/footer/__links/footer__links.css);
 /* блок CURSOR*/
 @import url(./blocks/cursor/cursor.css);
-@import url(./blocks/cursor/__hand/cursor__hand-hover.css);
