@@ -1,4 +1,4 @@
-.website__url-heading {
+.place__url-heading {
   margin: 0 0 3.75%;
   font-style: normal;
   font-weight: normal;
@@ -10,13 +10,13 @@
 
 
 @media screen and (min-width: 767px) {
-  .website__url-heading {
+  .place__url-heading {
     margin-bottom: 1.56%;
   }
 }
 
 @media screen and (min-width: 1024px) {
-  .website__url-heading {
+  .place__url-heading {
     padding: 0 0 1.17%;
   }
 }
