@@ -16,15 +16,9 @@
 
 @media screen and (min-width: 767px) {
   .cover__title {
-    padding: 0 5%;
+    padding: 0 0;
     font-size: 72px;
     line-height: 105%;
-  }
-}
-
-@media screen and (min-width: 1023px) {
-  .cover__title {
-    padding: 0 5%;
   }
 }
 
